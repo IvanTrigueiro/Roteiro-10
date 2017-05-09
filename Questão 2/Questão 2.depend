@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 2\main.cpp
+	<iostream>
+
+1492517833 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 2\src\conta.cpp
+	"Conta.h"
+	<iostream>
+
+1492518373 c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 2\include\conta.h
+	"IConta.h"
+	<string>
+
+1492515642 c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 2\include\iconta.h
+
+1492518608 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 2\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1492518373 c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 2\include\contaespecial.h
+	"Conta.h"
+
+1492515635 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 2\src\iconta.cpp
+	"IConta.h"
+
+1494288264 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 2\src\saldonaodisponivelexception.cpp
+	"SaldoNaoDisponivelException.h"
+
+1494288195 c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 2\include\saldonaodisponivelexception.h
+	<exception>
+	<iostream>
+	"Conta.h"
+
+1494331397 source:c:\users\aluno\desktop\lp1\roteiro 10\questão 2\main.cpp
+	<iostream>
+	"SaldoNaoDisponivelException.h"
+	"Conta.h"
+	"ContaEspecial.h"
+
+1494329253 source:c:\users\aluno\desktop\lp1\roteiro 10\questão 2\src\conta.cpp
+	"Conta.h"
+	<iostream>
+
+1494329137 c:\users\aluno\desktop\lp1\roteiro 10\questão 2\include\conta.h
+	"IConta.h"
+	"SaldoNaoDisponivelException.h"
+	<string>
+
+1492515642 c:\users\aluno\desktop\lp1\roteiro 10\questão 2\include\iconta.h
+
+1492518608 source:c:\users\aluno\desktop\lp1\roteiro 10\questão 2\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1492518373 c:\users\aluno\desktop\lp1\roteiro 10\questão 2\include\contaespecial.h
+	"Conta.h"
+
+1492515635 source:c:\users\aluno\desktop\lp1\roteiro 10\questão 2\src\iconta.cpp
+	"IConta.h"
+
+1494331039 source:c:\users\aluno\desktop\lp1\roteiro 10\questão 2\src\saldonaodisponivelexception.cpp
+	"SaldoNaoDisponivelException.h"
+
+1494331142 c:\users\aluno\desktop\lp1\roteiro 10\questão 2\include\saldonaodisponivelexception.h
+	<exception>
+	<stdexcept>
+	<iostream>
+
