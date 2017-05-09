@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1494282750 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 1\main.cpp
+	<iostream>
+	"TesteValidaNumero.h"
+
+1494282658 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 1\src\testevalidanumero.cpp
+	"TesteValidaNumero.h"
+
+1494279984 c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 1\include\testevalidanumero.h
+	"ValorAbaixoException.h"
+	"ValorAcimaException.h"
+	"ValorMuitoAcimaException.h"
+	<iostream>
+
+1494279713 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 1\src\valorabaixoexception.cpp
+	"ValorAbaixoException.h"
+
+1494279728 c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 1\include\valorabaixoexception.h
+	<exception>
+	<iostream>
+
+1494279883 c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 1\include\valoracimaexception.h
+	<exception>
+	<iostream>
+
+1494279883 c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 1\include\valormuitoacimaexception.h
+	<exception>
+	<iostream>
+
+1494279883 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 1\src\valoracimaexception.cpp
+	"ValorAcimaException.h"
+
+1494282707 source:c:\users\user\documents\ufpb\lp1\c++\roteiro 10\questão 1\src\valormuitoacimaexception.cpp
+	"ValorMuitoAcimaException.h"
+
+1494282750 source:c:\users\aluno\desktop\lp1\roteiro 10\questão 1\main.cpp
+	<iostream>
+	"TesteValidaNumero.h"
+
+1494279984 c:\users\aluno\desktop\lp1\roteiro 10\questão 1\include\testevalidanumero.h
+	"ValorAbaixoException.h"
+	"ValorAcimaException.h"
+	"ValorMuitoAcimaException.h"
+	<iostream>
+
+1494279728 c:\users\aluno\desktop\lp1\roteiro 10\questão 1\include\valorabaixoexception.h
+	<exception>
+	<iostream>
+
+1494279883 c:\users\aluno\desktop\lp1\roteiro 10\questão 1\include\valoracimaexception.h
+	<exception>
+	<iostream>
+
+1494279883 c:\users\aluno\desktop\lp1\roteiro 10\questão 1\include\valormuitoacimaexception.h
+	<exception>
+	<iostream>
+
+1494329702 source:c:\users\aluno\desktop\lp1\roteiro 10\questão 1\src\testevalidanumero.cpp
+	"TesteValidaNumero.h"
+
+1494329525 source:c:\users\aluno\desktop\lp1\roteiro 10\questão 1\src\valorabaixoexception.cpp
+	"ValorAbaixoException.h"
+	<iostream>
+
+1494279883 source:c:\users\aluno\desktop\lp1\roteiro 10\questão 1\src\valoracimaexception.cpp
+	"ValorAcimaException.h"
+
+1494282707 source:c:\users\aluno\desktop\lp1\roteiro 10\questão 1\src\valormuitoacimaexception.cpp
+	"ValorMuitoAcimaException.h"
+
